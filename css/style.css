@@ -1,0 +1,31 @@
+body {
+  font-family: 'Varela Round', sans-serif, 'Arial', sans-serif;
+  text-align: center;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-size: 10em;
+  margin: auto;
+}
+
+#clock {
+  font-size: 8em;
+  color: white;
+}
+
+p {
+  color: white;
+  font-size: 4em;
+  margin-bottom: 20px;
+}
+
+button {
+  border-radius: 20px;
+  height: 60px;
+  width: 180px;
+  border: none;
+  font-size: 2em;
+  color: white;
+}
